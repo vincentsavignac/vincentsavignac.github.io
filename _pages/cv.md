@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Curriculum Vitae
-
-[Download PDF](/files/CV_VINCENT_SAVIGNAC_2026.pdf)
+<iframe src="/files/CV_VINCENT_SAVIGNAC_2026.pdf"
+        width="100%"
+        height="1200px">
+</iframe>
