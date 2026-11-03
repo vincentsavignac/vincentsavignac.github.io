@@ -23,7 +23,7 @@ repository               : "vincentsavignac/vincentsavignac.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Placeholder.jpg"
+  avatar           : "Placeholder.png"
   name             : "Vincent Savignac"
   pronouns         : # example: "she/her"  
   bio              : "Thank you for coming to my ted talk"
