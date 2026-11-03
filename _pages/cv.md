@@ -1,5 +1,12 @@
-layout: single title: "CV" permalink: /cv/ author_profile: true redirect_from:
+---
+layout: single
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-/resume
-Curriculum Vitae
-Download PDF
+# Curriculum Vitae
+
+[Download PDF](/files/CV_VINCENT_SAVIGNAC_2026.pdf)
