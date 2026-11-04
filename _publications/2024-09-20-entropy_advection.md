@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "The Not-so Dramatic Effect of Advective Flows on Gas Accretion"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-09-20-entropy_advection
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2024-09-20
+venue: 'The Astrophysical Journal'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
