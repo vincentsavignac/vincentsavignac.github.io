@@ -7,6 +7,7 @@ excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-11-26
 venue: 'The Astrophysical Journal'
 paperurl: 'https://vincentsavignac.github.io/files/impacting_atmospheres_paper.pdf'
+bibtexurl: 'https://vincentsavignac.github.io/files/impacting_atmospheres.bib'
 citation: 'Emilia Vlahos <i>et al<i> 2024 <i>ApJ<i> 976 237'
 ---
 
