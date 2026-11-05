@@ -3,7 +3,7 @@ title: "Impacting Atmospheres: How Late-stage Pollution Alters Exoplanet Composi
 collection: publications
 category: co_author
 permalink: https://vincentsavignac.github.io/2024-11-26_impacting_atmospheres
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper explores how impacts and late-stage accretion reshape exoplanet atmospheres, altering their composition and masking clues to their formation history.'
 date: 2024-11-26
 venue: 'The Astrophysical Journal'
 paperurl: 'https://vincentsavignac.github.io/files/impacting_atmospheres_paper.pdf'
