@@ -2,7 +2,7 @@
 title: "Impacting Atmospheres: How Late-stage Pollution Alters Exoplanet Composition"
 collection: publications
 category: co_author
-permalink: https://iopscience.iop.org/article/10.3847/1538-4357/ad83d5
+permalink: https://vincentsavignac.github.io/2024-11-26_impacting_atmospheres
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-11-26
 venue: 'The Astrophysical Journal'
