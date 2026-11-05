@@ -6,7 +6,7 @@ permalink: /publication/2024-09-20-entropy_advection
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-09-20
 venue: 'The Astrophysical Journal'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academicpages.github.io/files/entropy_advection_paper.pdf'
 bibtexurl: 'https://academicpages.github.io/files/entropy_advection.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
