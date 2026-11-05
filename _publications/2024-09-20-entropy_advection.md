@@ -1,7 +1,7 @@
 ---
 title: "The Not-so Dramatic Effect of Advective Flows on Gas Accretion"
 collection: publications
-category: manuscripts
+category: first_author
 permalink: /publication/2024-09-20-entropy_advection
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-09-20
