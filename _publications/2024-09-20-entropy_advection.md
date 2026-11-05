@@ -3,7 +3,7 @@ title: "The Not-so Dramatic Effect of Advective Flows on Gas Accretion"
 collection: publications
 category: first_author
 permalink: /publication/2024-09-20-entropy_advection
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper investigates whether entropy carried by advective gas flows in protoplanetary disks can prevent runaway gas accretion, helping explain the formation of super-Earths and sub-Neptunes.'
 date: 2024-09-20
 venue: 'The Astrophysical Journal'
 paperurl: 'https://vincentsavignac.github.io/files/entropy_advection_paper.pdf'
