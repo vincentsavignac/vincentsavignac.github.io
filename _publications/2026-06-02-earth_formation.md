@@ -3,7 +3,7 @@ title: "Constructing the Earth's Formation History Using Deep Mantle Noble Gas R
 collection: publications
 category: first_author
 permalink: /publication/2026-06-02-earth_formation
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper uses noble gases trapped in Earth's deep mantle to constrain when and how the Earth began accreting gas from the primordial solar nebula.'
 date: 2026-06-02
 venue: 'The Planetary Science Journal'
 paperurl: 'https://vincentsavignac.github.io/files/earth_formation_paper.pdf'
