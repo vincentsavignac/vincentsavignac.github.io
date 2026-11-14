@@ -1,6 +1,6 @@
 ---
 title: "Astronomy on Tap San Diego"
-excerpt: "Short description of outreach item number 1<br/><img src='/images/aot_logo_2025_hires.png'>"
+excerpt: "Short description of outreach item number 1<br/><img src='/images/cosmictoursc.png'>"
 collection: outreach
 ---
 
