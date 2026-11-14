@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'outreach' and post.link %}
+      {% if (post.collection == 'outreach' or post.collection == 'teaching') and post.link %}
         <a href="{{ post.link }}" target="_blank" rel="noopener noreferrer">{{ title }}</a>
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
