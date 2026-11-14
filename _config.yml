@@ -224,10 +224,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  outreach:
     output: true
     permalink: /:collection/:path/
 
@@ -270,21 +270,21 @@ defaults:
       author_profile: true
       share: false
       comments: true
-  # _portfolio
+  # _outreach
   - scope:
       path: ""
-      type: portfolio
+      type: outreach
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _research
   - scope:
       path: ""
-      type: talks
+      type: research
     values:
-      layout: talk
+      layout: research
       author_profile: true
       share: true
 
