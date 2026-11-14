@@ -1,6 +1,6 @@
 ---
-title: "Outreach item number 1"
-excerpt: "Short description of outreach item number 1<br/><img src='/images/500x300.png'>"
+title: "Astronomy on Tap San Diego"
+excerpt: "Short description of outreach item number 1<br/><img src='/images/aot_logo_2025_hires.png'>"
 collection: outreach
 ---
 
